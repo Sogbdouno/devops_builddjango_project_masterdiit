@@ -1,0 +1,3 @@
+gunicorn
+djangorestframework
+drf-spectacular
